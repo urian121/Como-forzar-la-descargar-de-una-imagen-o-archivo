@@ -31,6 +31,10 @@
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
   transform: translateY(-7px);
 }
+h3{
+  font-weight: 800;
+  font-size: 35px;
+}
     </style>
     <title>Como forzar la descargar de una imagen o cualquier archivo con PHP :: Webdeveloper Urian Viera </title>
   </head>
@@ -45,7 +49,7 @@
 <div class="container mt-5"> 
 
   
-  <h3 class="text-center mb-5" style="font-weight: 800; font-size: 35px">
+  <h3 class="text-center mb-5">
     Cómo forzar la Descargar de una Imagen o cualquier <strong> Archivo </strong> con PHP 
     <hr>
   </h3>
